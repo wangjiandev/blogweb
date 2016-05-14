@@ -1,6 +1,8 @@
 ---
 title: Hello World
 ---
+个人很喜欢[Hexo](https://hexo.io/),这篇文章为[Hexo](https://hexo.io/)初始化的教程，我保留了下来。希望能够帮助看到这篇文章，并对[Hexo](https://hexo.io/)有兴趣的朋友。go！
+
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
