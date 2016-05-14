@@ -4,9 +4,9 @@
 
 # Site
 title: Evasi0n
-subtitle:
+subtitle: 王健个人博客
 description:
-author: wangjian
+author: 王健
 language: zh-Hans
 timezone:
 
@@ -68,4 +68,6 @@ theme: freemind
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: github
+  repository: git@github.com:wangjiandev/hexo-blog.git
+  branch: master
