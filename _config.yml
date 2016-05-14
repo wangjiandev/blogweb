@@ -68,6 +68,6 @@ theme: freemind
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: github
+  type: git
   repository: git@github.com:wangjiandev/hexo-blog.git
   branch: master
