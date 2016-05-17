@@ -1,8 +1,9 @@
 ---
-title: Spring Boot Tutorial 1
+title: Spring Boot Tutorial 1 (@SpringBootApplication)
 date: 2016-05-14 22:40:50
 tags: spring boot
 ---
+
 ## @SpringBootApplication
 
 ``` java
